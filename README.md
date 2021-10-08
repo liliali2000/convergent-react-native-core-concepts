@@ -15,6 +15,6 @@ Additionally, you will need the Expo Go app (https://expo.dev/) downloaded on yo
 
 Once you have both dependencies, clone this repo to your local machine. `cd` into the repository folder. If you've installed NPM, then run `npm install -g expo-cli`. If you've installed Yarn, run `yarn global add expo-cli`.
 
-Afterwards run either `npm start` or `yarn start` or `expo start`, depending on your package manager, and a  will appear on [localhost:19000](http://localhost:19000). 
+Afterwards run either `npm start` or `yarn start` or `expo start`, depending on your package manager, and a dashboard will appear on [localhost:19000](http://localhost:19000). 
 
 Scan the QR code that appears either from the terminal that you ran the command from or from the dashboard the appears on the development server. It should open up the app in the Expo Go app on your device automatically.
